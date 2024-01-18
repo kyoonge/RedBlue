@@ -12,27 +12,6 @@
         BLUE
     }
 
-    //test
-    public enum GameState
-    {
-        Ttitle,
-        Platformer,
-        Dialogue, 
-        End,
-    }
 
-    public enum MissionState
-    {
-        Ready,
-        InProgress,
-        Complete,
-        Fail
-    }
-    public enum TeleScreenType
-    {
-        Ready,
-        On,
-        Off
-    }
 }
 
